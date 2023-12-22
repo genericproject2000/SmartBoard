@@ -50,7 +50,7 @@
 	"homepage": "https://magicmirror.builders",
 	"devDependencies": {
 		"eslint-config-prettier": "^9.1.0",
-		"eslint-plugin-import": "^2.29.0",
+		"eslint-plugin-import": "^2.29.1",
 		"eslint-plugin-jest": "^27.6.0",
 		"eslint-plugin-jsdoc": "^46.9.0",
 		"eslint-plugin-prettier": "^5.0.1",
